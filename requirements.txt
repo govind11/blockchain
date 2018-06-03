@@ -1,0 +1,16 @@
+Package      Version  
+------------ ---------
+certifi      2018.4.16
+chardet      3.0.4    
+click        6.7      
+Flask        1.0.2    
+idna         2.6      
+itsdangerous 0.24     
+Jinja2       2.10     
+MarkupSafe   1.0      
+pip          10.0.1   
+requests     2.18.4   
+setuptools   39.2.0   
+urllib3      1.22     
+Werkzeug     0.14.1   
+wheel        0.31.1   
